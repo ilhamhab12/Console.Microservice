@@ -1,0 +1,16 @@
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.exe.config
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\EntityFramework.dll
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.BussinessLogic.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.Common.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.DataAccess.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.BussinessLogic.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.Common.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\Microservice.DataAccess.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\EntityFramework.xml
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\obj\Debug\Microservice.csprojResolveAssemblyReference.cache
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\obj\Debug\Microservice.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Microservice\Microservice\obj\Debug\Microservice.pdb
